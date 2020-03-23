@@ -12,6 +12,8 @@ The website use this code is currently hosted on **https://react-beach-resort-le
 
 ![current State of this App/homepage gif](homepage_demo.gif)
 
+
 ![current State of this App/roomsPage gif](roomsPage_demo.gif) 
 
-![current State of this App/singleRoomPage gif](singleRoomPage_demo.gif) 
+
+![current State of this App/singleRoomPage gif](singleRoomPage.gif) 
