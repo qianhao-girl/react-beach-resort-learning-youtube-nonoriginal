@@ -13,7 +13,7 @@ The website use this code is currently hosted on **https://react-beach-resort-le
 ![current State of this App/homepage gif](homepage_demo.gif)
 
 
-![current State of this App/rooms_Page gif](roomsPage_demo.gif) 
+![current State of this App/roomsPage gif](rooms_Page_demo.gif) 
 
 
 ![current State of this App/singleRoomPage gif](singleRoomPage.gif) 
